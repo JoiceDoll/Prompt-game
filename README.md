@@ -1,7 +1,6 @@
 Prompt project created using:
 Node.js,
-Inquirer package,
-Chalk.
+Inquirer package and Chalk package.
 
 ![Yoyo Game Club Logo](https://github.com/JoiceDoll/Prompt-game/assets/99621429/0a153cde-e032-4cf5-9879-423024270373)
 
